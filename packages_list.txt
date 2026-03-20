@@ -1,0 +1,6 @@
+requests
+python-dotenv
+langchain-nvidia-ai-endpoints
+langchain
+pydantic
+huggingface_hub==0.23.0
